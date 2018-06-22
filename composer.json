@@ -1,5 +1,5 @@
 {
-    "name": "kyrenator/query-cache",
+    "name": "Vn271/query-cache",
     "description": "Easily Cache Eloquent Collections",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.0.*"
     },
     "autoload": {
         "psr-0": {
